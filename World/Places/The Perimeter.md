@@ -1,0 +1,1 @@
+The outermost expansion of our system. It’s then hull of a Voronoi expansion and where border skirmishes happen against alien nations, usually by their AI systems.

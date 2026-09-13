@@ -1,0 +1,1 @@
+A deep-space convoy sent to explore [[Sector 2749]] in [[12,050 HE]].

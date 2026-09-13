@@ -1,0 +1,1 @@
+Commodore of [[Convoy 216]]. Has an uncanny ability to know what your about to ask, but doesn't have the patience to let you ask it before answering. Also doesn't have the patiences to end calls appropriately.

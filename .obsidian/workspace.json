@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "6faf83f099c4fd30",
+    "type": "split",
+    "children": [
+      {
+        "id": "fabcd158db79b1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d6d3849a78f22f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99ec705ea124765d",
+    "type": "split",
+    "children": [
+      {
+        "id": "989feb081326e81e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec4f73f4dc475a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94be75d834892fb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b5f005b65ef9349",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba1da8804565db95",
+    "type": "split",
+    "children": [
+      {
+        "id": "94b0636e95ca68b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ab76e80a171985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c4a4b8ee09e5d5e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aa8117ae0c609d1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08522eff1ae247ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b93573e0bcb5e355",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "64d6d3849a78f22f",
+  "lastOpenFiles": [
+    "Story/Scenes/Pull from the Void.md",
+    "The Forest is Abloom with Flowers.md",
+    "Story/Scenes/Flickering Lights.md",
+    "Story/Scenes/Trivial.md",
+    "World/Cultures/Kovhal Empire.md",
+    "Book 1.md",
+    "The Invasion.md",
+    "Book 3.md",
+    "World/Places/Kovhal System.md",
+    "Story/Outline.md",
+    "World/Places/The Perimeter.md",
+    "Characters/Human/Sergio Grazia Moretti.md",
+    "Story/Dates/12,053 HE.md",
+    "World/Places/Sector 2749.md",
+    "World/Places/Milky Way Galaxy.md",
+    "World/Places/Korgval System.md",
+    "World/Places/Earth.md",
+    "World/Places",
+    "World/Cultures/Korgval Empire.md",
+    "Characters/Ascentient/Matteo.md",
+    "Plot.md",
+    "Characters/Human/Evelyn.md",
+    "Characters/Ascentient/Rydica.md",
+    "Characters/Ascentient/Mirella.md",
+    "Characters/Ascentient/Derick.md",
+    "Characters/Ascentient",
+    "Story/Scenes/2 Flickering Lights.md",
+    "Story/Dates/12,070 HE.md",
+    "Story/Scenes",
+    "Story/Dates",
+    "Story",
+    "World/Cultures/Factions",
+    "World/Ships",
+    "World/Races",
+    "World/Cultures",
+    "World/Props"
+  ]
+}
