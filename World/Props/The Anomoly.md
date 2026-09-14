@@ -1,1 +1,0 @@
-An unknow structure in the spacetime fabric. This is what causes the [[Meridica]] to jump ahead into time. In a later book, it is determined that this was a wormhole attempt by an alien race that is wiped out by the Earth's [[Ascentients]].
