@@ -7,10 +7,10 @@ Canonical dates. If another note disagrees with this one, this one wins.
 | HE | CE | Event |
 | --- | --- | --- |
 | 12,030s | 2030s | Autonomous systems run power, ports, logistics and markets. They are not conscious and they are legally property. The word *asentient* is coined for them. |
-| 12,040s | 2040s | Long-duration cryogenic suspension becomes medically viable. Sold first to the dying, then to the rich. The word *[[Chrononauts\|chrononaut]]* is coined by the people selling it. |
+| 12,040s | 2040s | Long-duration cryogenic suspension becomes medically viable. Sold first to the dying, then to the rich. |
 | **12,050** | **2050** | **The Deep Space Initiative is founded** to mark the round number. First crewed mission beyond Mars. The convoy registry starts counting here, which is why the number reaches 216 by 12,150. |
 | 12,060s | 2060s | World population peaks near 9.8 billion. The great river deltas start to be abandoned. |
-| 12,090s | 2090s | The first chrononauts wake fifty years late. Their investments are intact and nothing else is. The word ***anachronaut*** is coined here, decades before any ship jumps. |
+| 12,090s | 2090s | The first [[Chrononauts\|chrononauts]] wake fifty years late. Their investments are intact and nothing else is. *Anachronaut* is already in use as a slur, decades before any ship jumps. |
 
 ## The convoys
 
