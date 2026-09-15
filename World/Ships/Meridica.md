@@ -5,7 +5,7 @@ The Meridica's AI is an [[Ascentients|artificial sentient]] is a tripartite mind
 Command ship part of the [[Convoy 216|216th deep-space convoy]].
 ## Voyage profile
 
-Beam-boosted out of the solar laser array, then fusion cruise at about 0.1c. No cryogenic suspension aboard. The crew are awake the whole way.
+Beam-boosted out of the solar laser array, then fusion cruise at about 0.1c. The crew are awake for the whole voyage.
 
 | | Date (HE) | Ship time |
 | --- | --- | --- |
@@ -18,6 +18,6 @@ Seven years out. Eight and a half months home. 72 years elapsed, crew aged 8.
 
 Light lag at 0.7 light years is about eight months, so a message to Earth and back takes over a year. [[The Commodore]] has to make the call on the anomaly alone.
 
-Because there is no stasis, [[Sector 2749]] is more than a century away at 0.1c. The crew that departs was never going to be the crew that arrives. They signed up to live and die aboard. That is why most of them are single, and why permitting some families at all is an odd compromise.
+At 0.1c, [[Sector 2749]] is more than a century away. The crew that departs was never going to be the crew that arrives. They signed up to live and die aboard. That is why most of them are single, and why permitting some families at all is an odd compromise.
 
 The refit at the anomaly is straightforward and takes weeks. It is plumbing, not a plot point. It exists to get them home in months instead of another lifetime.

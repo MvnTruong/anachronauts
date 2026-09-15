@@ -2,4 +2,4 @@ Someone who jumps through time by travelling near light speeds or suspend themse
 
 When jumping forward in time, depending on how far into the future, there tends be a feeling of grief of the past, and a feeling of being out of place. A subsocieties tend for form, and because they don't integrate well for this reason, they are often referred to, perjoratively, as *anachronauts*.
 
-The word *anachronaut* is in use on Earth from the 12,090s HE, long before any ship jumps. By the time [[Marcus]] and his crew land in [[12,222 HE]] there is already a subsociety and a slur waiting for them.
+The [[Convoy 216]] crews are the first chrononauts. [[Marcus]] and the crew of the [[Meridica]] are the first anachronauts, from [[12,222 HE]].
