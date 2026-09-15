@@ -17,7 +17,7 @@ Canonical dates. If another note disagrees with this one, this one wins.
 | 12,100s | 2100s | West Antarctica destabilises. Sea level rise speeds up. |
 | 12,110s–30s | | A laser array is built in solar orbit for precursor probes. It will later boost the convoys out and brake them on the way in. |
 | 12,140 | 2140 | The Deep Space Compact. Nations jointly fund one-way crewed convoys, one every five years. |
-| **12,150** | **2150** | **[[Convoy 216]] departs.** [[Meridica]] is command ship. 100 crew, awake for the whole voyage. Target [[Sector 2749]]. These crews are the first [[Chrononauts\|chrononauts]]. |
+| **12,150** | **2150** | **[[Convoy 216]] departs.** [[Meridica]] is command ship. 100 crew, awake for the whole voyage. Target [[Sector 2749]]. |
 | **12,157** | | **[[The Anomaly]].** The [[Kovhal Empire]] fires a prototype wormhole 0.7 light years from Earth. It fails. The Meridica is pulled in. |
 | 12,158 | | Earth sees the light of it eight months late. The Meridica is already gone. |
 | 12,160–12,220 | | Later convoys pass the site. It becomes a charted hazard, then a memorial. The [[Totems of Sorrow]] accumulate. |
@@ -36,8 +36,8 @@ Canonical dates. If another note disagrees with this one, this one wins.
 | HE | CE | Event |
 | --- | --- | --- |
 | **12,221** | | **The Meridica comes out.** 64 years gone outside, minutes aboard. Totems, recall package, [[Matteo]]. |
-| **12,222** | **2222** | **The Meridica reaches Earth.** 72 years after departure, crew aged 8. Quarantine. They are the first *anachronauts*. |
-| 12,223–24 | | Release. The vertical flat. The artefact market and the anachronaut underworld. |
+| **12,222** | **2222** | **The Meridica reaches Earth.** 72 years after departure, crew aged 8. Quarantine. They are celebrated for having jumped time, and the word *[[Chrononauts\|chrononaut]]* is coined to honour the service and the sacrifice. |
+| 12,223–24 | | Release. The vertical flat. Living among people, they read as out of time, and *anachronaut* appears as a pejorative. The artefact market and the anachronaut underworld. |
 | 12,225 | | **[[Flickering Lights]].** The first [[Ascentients\|Ascentient]] war. A ship launches from inside Earth. |
 
 ## Note on what is flooded
